@@ -1,0 +1,7 @@
+name = "eto1111"
+compatibility_date = "2025-03-28"
+main = "./index.html"  # Указывает на статический файл
+
+[site]
+bucket = "./"          # Папка с файлами
+entry-point = "./"     # Точка входа
